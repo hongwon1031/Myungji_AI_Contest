@@ -7,8 +7,8 @@ PCB 기판은 Reflow 공정에서 열을 받으면 Warpage 현상이 발생할 �
 ## 데이터셋
 PCB 기판 Dataset: Ansys workbench와 python을 사용하여 시뮬레이션 데이터를 생성하며, 이 데이터의 정확성과 일관성을 전제로 합니다.
 ## 모델 구현
-### CNN (Convolutional Neural Network): PCB 기판의 Warpage 형태를 분석하고 분류하는데 사용됩니다.
-### LSTM (Long Short-Term Memory): 시계열 데이터를 바탕으로 최적의 공정 조건을 도출하는데 사용됩니다. 이를 통해 Reflow 공정 시간을 최적화하고, 다양한 공정 조건에 대한 시뮬레이션을 통해 개선안을 도출합니다.
+CNN (Convolutional Neural Network): PCB 기판의 Warpage 형태를 분석하고 분류하는데 사용됩니다.
+LSTM (Long Short-Term Memory): 시계열 데이터를 바탕으로 최적의 공정 조건을 도출하는데 사용됩니다. 이를 통해 Reflow 공정 시간을 최적화하고, 다양한 공정 조건에 대한 시뮬레이션을 통해 개선안을 도출합니다.
 ## 주요 결과
 모델 학습 및 성능 평가 결과, 트레이닝 정확도와 밸리데이션 정확도가 각각 99.4%, 99.87%로 높은 정확도를 달성하였습니다.
 LSTM 모델을 통해 시간에 따른 변위값을 성공적으로 예측하여 공정 최적화에 기여하였습니다.
