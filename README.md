@@ -12,3 +12,7 @@ LSTM (Long Short-Term Memory): 시계열 데이터를 바탕으로 최적의 공
 ## 주요 결과
 모델 학습 및 성능 평가 결과, 트레이닝 정확도와 밸리데이션 정확도가 각각 99.4%, 99.87%로 높은 정확도를 달성하였습니다.
 LSTM 모델을 통해 시간에 따른 변위값을 성공적으로 예측하여 공정 최적화에 기여하였습니다.
+## 사용 기술
+Programming Languages: Python
+Tools & Libraries: Ansys, Tensorflow, Keras, PyTorch
+Data Handling: JSON, PNG output
