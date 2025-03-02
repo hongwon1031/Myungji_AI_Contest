@@ -16,3 +16,5 @@ LSTM 모델을 통해 시간에 따른 변위값을 성공적으로 예측하여
 Programming Languages: Python
 Tools & Libraries: Ansys, Tensorflow, Keras, PyTorch
 Data Handling: JSON, PNG output
+## 성능평가
+자세한 내용은 [결과보고서.pdf] 참조
