@@ -17,4 +17,4 @@ Programming Languages: Python
 Tools & Libraries: Ansys, Tensorflow, Keras, PyTorch
 Data Handling: JSON, PNG output
 ## 성능평가
-자세한 내용은 [결과보고서.pdf] 참조
+자세한 내용은 [결과보고서.pdf](https://github.com/hongwon1031/Myungji_AI_Contest/blob/main/%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) 참조
