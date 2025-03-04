@@ -16,5 +16,9 @@ LSTM 모델을 통해 시간에 따른 변위값을 성공적으로 예측하여
 Programming Languages: Python
 Tools & Libraries: Ansys, Tensorflow, Keras, PyTorch
 Data Handling: JSON, PNG output
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Ansys-00A162?style=flat-square&logo=ansys&logoColor=white"/> 
+
+
 ## 성능평가
 자세한 내용은 [결과보고서.pdf](https://github.com/hongwon1031/Myungji_AI_Contest/blob/main/%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) 참조
