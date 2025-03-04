@@ -10,12 +10,9 @@ PCB 기판 Dataset: Ansys workbench와 python을 사용하여 시뮬레이션 �
 - CNN (Convolutional Neural Network): PCB 기판의 Warpage 형태를 분석하고 분류하는데 사용됩니다.
 - LSTM (Long Short-Term Memory): 시계열 데이터를 바탕으로 최적의 공정 조건을 도출하는데 사용됩니다. 이를 통해 Reflow 공정 시간을 최적화하고, 다양한 공정 조건에 대한 시뮬레이션을 통해 개선안을 도출합니다.
 ## 주요 결과
-모델 학습 및 성능 평가 결과, 트레이닝 정확도와 밸리데이션 정확도가 각각 99.4%, 99.87%로 높은 정확도를 달성하였습니다.
+모델 학습 및 성능 평가 결과, Training Accuracy와 Validation Accuracy 각각 99.4%, 99.87%로 높은 정확도를 달성하였습니다.
 LSTM 모델을 통해 시간에 따른 변위값을 성공적으로 예측하여 공정 최적화에 기여하였습니다.
 ## 사용 기술
-Programming Languages: Python
-Tools & Libraries: Ansys, Tensorflow, Keras, PyTorch
-Data Handling: JSON, PNG output
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Ansys-00A162?style=flat-square&logo=ansys&logoColor=white"/> 
 
